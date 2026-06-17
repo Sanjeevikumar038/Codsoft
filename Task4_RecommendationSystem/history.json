@@ -1,0 +1,359 @@
+[
+  {
+    "query": "Bird Box",
+    "recommendations": [
+      {
+        "title": "A Quiet Place",
+        "genre": "Horror Thriller",
+        "description": "A family is forced to live in near silence while hiding from creatures that hunt by sound. A masterful exercise in tension and suspense with exceptional performances.…",
+        "year": "2018",
+        "rating": 7.5,
+        "similarity_pct": 20.2,
+        "explanation": "Recommended because both movies moderately share horror, post-apocalyptic, survival, thriller themes and elements."
+      },
+      {
+        "title": "Mad Max Fury Road",
+        "genre": "Action Adventure",
+        "description": "In a post-apocalyptic wasteland a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners a psychotic worshiper and a drifter named Max.…",
+        "year": "2015",
+        "rating": 8.1,
+        "similarity_pct": 11.4,
+        "explanation": "Recommended because both movies moderately share post-apocalyptic, survival themes and elements."
+      },
+      {
+        "title": "The Sixth Sense",
+        "genre": "Thriller Horror",
+        "description": "A child psychologist discovers that his new patient a young boy is communicating with dead people. M. Night Shyamalans masterwork with one of the most iconic twists in cinema history.…",
+        "year": "1999",
+        "rating": 8.1,
+        "similarity_pct": 10.7,
+        "explanation": "Recommended because both movies moderately share horror, thriller themes and elements."
+      },
+      {
+        "title": "Mortal Engines",
+        "genre": "Science Fiction Adventure",
+        "description": "In a post-apocalyptic world cities ride on wheels and consume smaller towns to survive. A young woman with a mysterious past aids a group of rebels trying to stop London from devouring their settlemen…",
+        "year": "2018",
+        "rating": 6.1,
+        "similarity_pct": 10.6,
+        "explanation": "Recommended because both movies moderately share survival themes and elements."
+      },
+      {
+        "title": "The Silence of the Lambs",
+        "genre": "Thriller Horror",
+        "description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer. A masterclass in psychological tension and suspense.…",
+        "year": "1991",
+        "rating": 8.6,
+        "similarity_pct": 10.3,
+        "explanation": "Recommended because both movies moderately share horror, thriller themes and elements."
+      }
+    ],
+    "timestamp": "2026-06-17 20:12"
+  },
+  {
+    "query": "Bird Box",
+    "recommendations": [
+      {
+        "title": "A Quiet Place",
+        "genre": "Horror Thriller",
+        "description": "A family is forced to live in near silence while hiding from creatures that hunt by sound. A masterful exercise in tension and suspense with exceptional performances.…",
+        "year": "2018",
+        "rating": 7.5,
+        "similarity_pct": 20.2,
+        "explanation": "Recommended because both movies moderately share horror, post-apocalyptic, survival, thriller themes and elements."
+      },
+      {
+        "title": "Mad Max Fury Road",
+        "genre": "Action Adventure",
+        "description": "In a post-apocalyptic wasteland a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners a psychotic worshiper and a drifter named Max.…",
+        "year": "2015",
+        "rating": 8.1,
+        "similarity_pct": 11.4,
+        "explanation": "Recommended because both movies moderately share post-apocalyptic, survival themes and elements."
+      },
+      {
+        "title": "The Sixth Sense",
+        "genre": "Thriller Horror",
+        "description": "A child psychologist discovers that his new patient a young boy is communicating with dead people. M. Night Shyamalans masterwork with one of the most iconic twists in cinema history.…",
+        "year": "1999",
+        "rating": 8.1,
+        "similarity_pct": 10.7,
+        "explanation": "Recommended because both movies moderately share horror, thriller themes and elements."
+      },
+      {
+        "title": "Mortal Engines",
+        "genre": "Science Fiction Adventure",
+        "description": "In a post-apocalyptic world cities ride on wheels and consume smaller towns to survive. A young woman with a mysterious past aids a group of rebels trying to stop London from devouring their settlemen…",
+        "year": "2018",
+        "rating": 6.1,
+        "similarity_pct": 10.6,
+        "explanation": "Recommended because both movies moderately share survival themes and elements."
+      },
+      {
+        "title": "The Silence of the Lambs",
+        "genre": "Thriller Horror",
+        "description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer. A masterclass in psychological tension and suspense.…",
+        "year": "1991",
+        "rating": 8.6,
+        "similarity_pct": 10.3,
+        "explanation": "Recommended because both movies moderately share horror, thriller themes and elements."
+      }
+    ],
+    "timestamp": "2026-06-17 20:12"
+  },
+  {
+    "query": "Bird Box",
+    "recommendations": [
+      {
+        "title": "A Quiet Place",
+        "genre": "Horror Thriller",
+        "description": "A family is forced to live in near silence while hiding from creatures that hunt by sound. A masterful exercise in tension and suspense with exceptional performances.…",
+        "year": "2018",
+        "rating": 7.5,
+        "similarity_pct": 20.2,
+        "explanation": "Recommended because both movies moderately share horror, post-apocalyptic, survival, thriller themes and elements."
+      },
+      {
+        "title": "Mad Max Fury Road",
+        "genre": "Action Adventure",
+        "description": "In a post-apocalyptic wasteland a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners a psychotic worshiper and a drifter named Max.…",
+        "year": "2015",
+        "rating": 8.1,
+        "similarity_pct": 11.4,
+        "explanation": "Recommended because both movies moderately share post-apocalyptic, survival themes and elements."
+      },
+      {
+        "title": "The Sixth Sense",
+        "genre": "Thriller Horror",
+        "description": "A child psychologist discovers that his new patient a young boy is communicating with dead people. M. Night Shyamalans masterwork with one of the most iconic twists in cinema history.…",
+        "year": "1999",
+        "rating": 8.1,
+        "similarity_pct": 10.7,
+        "explanation": "Recommended because both movies moderately share horror, thriller themes and elements."
+      },
+      {
+        "title": "Mortal Engines",
+        "genre": "Science Fiction Adventure",
+        "description": "In a post-apocalyptic world cities ride on wheels and consume smaller towns to survive. A young woman with a mysterious past aids a group of rebels trying to stop London from devouring their settlemen…",
+        "year": "2018",
+        "rating": 6.1,
+        "similarity_pct": 10.6,
+        "explanation": "Recommended because both movies moderately share survival themes and elements."
+      },
+      {
+        "title": "The Silence of the Lambs",
+        "genre": "Thriller Horror",
+        "description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer. A masterclass in psychological tension and suspense.…",
+        "year": "1991",
+        "rating": 8.6,
+        "similarity_pct": 10.3,
+        "explanation": "Recommended because both movies moderately share horror, thriller themes and elements."
+      }
+    ],
+    "timestamp": "2026-06-17 20:12"
+  },
+  {
+    "query": "Bird Box",
+    "recommendations": [
+      {
+        "title": "A Quiet Place",
+        "genre": "Horror Thriller",
+        "description": "A family is forced to live in near silence while hiding from creatures that hunt by sound. A masterful exercise in tension and suspense with exceptional performances.…",
+        "year": "2018",
+        "rating": 7.5,
+        "similarity_pct": 20.2,
+        "explanation": "Recommended because both movies moderately share horror, post-apocalyptic, survival, thriller themes and elements."
+      },
+      {
+        "title": "Mad Max Fury Road",
+        "genre": "Action Adventure",
+        "description": "In a post-apocalyptic wasteland a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners a psychotic worshiper and a drifter named Max.…",
+        "year": "2015",
+        "rating": 8.1,
+        "similarity_pct": 11.4,
+        "explanation": "Recommended because both movies moderately share post-apocalyptic, survival themes and elements."
+      },
+      {
+        "title": "The Sixth Sense",
+        "genre": "Thriller Horror",
+        "description": "A child psychologist discovers that his new patient a young boy is communicating with dead people. M. Night Shyamalans masterwork with one of the most iconic twists in cinema history.…",
+        "year": "1999",
+        "rating": 8.1,
+        "similarity_pct": 10.7,
+        "explanation": "Recommended because both movies moderately share horror, thriller themes and elements."
+      },
+      {
+        "title": "Mortal Engines",
+        "genre": "Science Fiction Adventure",
+        "description": "In a post-apocalyptic world cities ride on wheels and consume smaller towns to survive. A young woman with a mysterious past aids a group of rebels trying to stop London from devouring their settlemen…",
+        "year": "2018",
+        "rating": 6.1,
+        "similarity_pct": 10.6,
+        "explanation": "Recommended because both movies moderately share survival themes and elements."
+      },
+      {
+        "title": "The Silence of the Lambs",
+        "genre": "Thriller Horror",
+        "description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer. A masterclass in psychological tension and suspense.…",
+        "year": "1991",
+        "rating": 8.6,
+        "similarity_pct": 10.3,
+        "explanation": "Recommended because both movies moderately share horror, thriller themes and elements."
+      }
+    ],
+    "timestamp": "2026-06-17 20:12"
+  },
+  {
+    "query": "Bird Box",
+    "recommendations": [
+      {
+        "title": "A Quiet Place",
+        "genre": "Horror Thriller",
+        "description": "A family is forced to live in near silence while hiding from creatures that hunt by sound. A masterful exercise in tension and suspense with exceptional performances.…",
+        "year": "2018",
+        "rating": 7.5,
+        "similarity_pct": 20.2,
+        "explanation": "Recommended because both movies moderately share horror, post-apocalyptic, survival, thriller themes and elements."
+      },
+      {
+        "title": "Mad Max Fury Road",
+        "genre": "Action Adventure",
+        "description": "In a post-apocalyptic wasteland a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners a psychotic worshiper and a drifter named Max.…",
+        "year": "2015",
+        "rating": 8.1,
+        "similarity_pct": 11.4,
+        "explanation": "Recommended because both movies moderately share post-apocalyptic, survival themes and elements."
+      },
+      {
+        "title": "The Sixth Sense",
+        "genre": "Thriller Horror",
+        "description": "A child psychologist discovers that his new patient a young boy is communicating with dead people. M. Night Shyamalans masterwork with one of the most iconic twists in cinema history.…",
+        "year": "1999",
+        "rating": 8.1,
+        "similarity_pct": 10.7,
+        "explanation": "Recommended because both movies moderately share horror, thriller themes and elements."
+      },
+      {
+        "title": "Mortal Engines",
+        "genre": "Science Fiction Adventure",
+        "description": "In a post-apocalyptic world cities ride on wheels and consume smaller towns to survive. A young woman with a mysterious past aids a group of rebels trying to stop London from devouring their settlemen…",
+        "year": "2018",
+        "rating": 6.1,
+        "similarity_pct": 10.6,
+        "explanation": "Recommended because both movies moderately share survival themes and elements."
+      },
+      {
+        "title": "The Silence of the Lambs",
+        "genre": "Thriller Horror",
+        "description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer. A masterclass in psychological tension and suspense.…",
+        "year": "1991",
+        "rating": 8.6,
+        "similarity_pct": 10.3,
+        "explanation": "Recommended because both movies moderately share horror, thriller themes and elements."
+      }
+    ],
+    "timestamp": "2026-06-17 20:12"
+  },
+  {
+    "query": "Bird Box",
+    "recommendations": [
+      {
+        "title": "A Quiet Place",
+        "genre": "Horror Thriller",
+        "description": "A family is forced to live in near silence while hiding from creatures that hunt by sound. A masterful exercise in tension and suspense with exceptional performances.…",
+        "year": "2018",
+        "rating": 7.5,
+        "similarity_pct": 20.2,
+        "explanation": "Recommended because both movies moderately share horror, post-apocalyptic, survival, thriller themes and elements."
+      },
+      {
+        "title": "Mad Max Fury Road",
+        "genre": "Action Adventure",
+        "description": "In a post-apocalyptic wasteland a woman rebels against a tyrannical ruler in search for her homeland with the aid of a group of female prisoners a psychotic worshiper and a drifter named Max.…",
+        "year": "2015",
+        "rating": 8.1,
+        "similarity_pct": 11.4,
+        "explanation": "Recommended because both movies moderately share post-apocalyptic, survival themes and elements."
+      },
+      {
+        "title": "The Sixth Sense",
+        "genre": "Thriller Horror",
+        "description": "A child psychologist discovers that his new patient a young boy is communicating with dead people. M. Night Shyamalans masterwork with one of the most iconic twists in cinema history.…",
+        "year": "1999",
+        "rating": 8.1,
+        "similarity_pct": 10.7,
+        "explanation": "Recommended because both movies moderately share horror, thriller themes and elements."
+      },
+      {
+        "title": "Mortal Engines",
+        "genre": "Science Fiction Adventure",
+        "description": "In a post-apocalyptic world cities ride on wheels and consume smaller towns to survive. A young woman with a mysterious past aids a group of rebels trying to stop London from devouring their settlemen…",
+        "year": "2018",
+        "rating": 6.1,
+        "similarity_pct": 10.6,
+        "explanation": "Recommended because both movies moderately share survival themes and elements."
+      },
+      {
+        "title": "The Silence of the Lambs",
+        "genre": "Thriller Horror",
+        "description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer. A masterclass in psychological tension and suspense.…",
+        "year": "1991",
+        "rating": 8.6,
+        "similarity_pct": 10.3,
+        "explanation": "Recommended because both movies moderately share horror, thriller themes and elements."
+      }
+    ],
+    "timestamp": "2026-06-17 20:12"
+  },
+  {
+    "query": "Mad Max Fury Road",
+    "recommendations": [
+      {
+        "title": "The Hunger Games",
+        "genre": "Action Adventure",
+        "description": "Katniss Everdeen voluntarily takes her younger sisters place in the Hunger Games a televised competition in which two teenagers from each of the twelve Districts of Panem are chosen at random to fight…",
+        "year": "2012",
+        "rating": 7.2,
+        "similarity_pct": 13.5,
+        "explanation": "Recommended because both movies moderately share action, adventure, rebellion, survival themes and elements."
+      },
+      {
+        "title": "Divergent",
+        "genre": "Action Adventure",
+        "description": "In a world divided by factions based on virtues Tris learns she's a Divergent who doesn't fully belong to any faction and must find out what makes Divergents dangerous before it's too late.…",
+        "year": "2014",
+        "rating": 6.7,
+        "similarity_pct": 12.8,
+        "explanation": "Recommended because both movies moderately share action, adventure, rebellion themes and elements."
+      },
+      {
+        "title": "The Maze Runner",
+        "genre": "Action Adventure",
+        "description": "Thomas is deposited in a community of boys after his memory is erased waking up in a massive maze with no knowledge of the outside world other than strange dreams about a mysterious organization known…",
+        "year": "2014",
+        "rating": 6.8,
+        "similarity_pct": 11.7,
+        "explanation": "Recommended because both movies moderately share action, adventure, survival themes and elements."
+      },
+      {
+        "title": "Bird Box",
+        "genre": "Thriller Horror",
+        "description": "A woman and two children make a desperate bid to reach safety after a mysterious force decimates the world's population. Seeing it means death so they must navigate the world blindfolded.…",
+        "year": "2018",
+        "rating": 6.6,
+        "similarity_pct": 11.4,
+        "explanation": "Recommended because both movies moderately share post-apocalyptic, survival themes and elements."
+      },
+      {
+        "title": "Mortal Engines",
+        "genre": "Science Fiction Adventure",
+        "description": "In a post-apocalyptic world cities ride on wheels and consume smaller towns to survive. A young woman with a mysterious past aids a group of rebels trying to stop London from devouring their settlemen…",
+        "year": "2018",
+        "rating": 6.1,
+        "similarity_pct": 10.7,
+        "explanation": "Recommended because both movies moderately share adventure, survival themes and elements."
+      }
+    ],
+    "timestamp": "2026-06-17 20:05"
+  }
+]
