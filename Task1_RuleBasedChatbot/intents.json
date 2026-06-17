@@ -1,0 +1,355 @@
+{
+  "intents": [
+    {
+      "tag": "greetings",
+      "category": "General",
+      "patterns": [
+        "hello",
+        "hi",
+        "hey",
+        "good morning",
+        "good evening",
+        "good afternoon",
+        "greetings",
+        "sup",
+        "yo"
+      ],
+      "responses": [
+        "Hello! I am IntelliBot AI, your smart rule-based assistant. How can I help you today?",
+        "Hi there! How can I assist you with programming, AI, or internship details today?",
+        "Greetings! Feel free to ask me about coding, artificial intelligence, or careers.",
+        "Hey! Ready to explore some tech topics? What is on your mind?"
+      ]
+    },
+    {
+      "tag": "identity",
+      "category": "General",
+      "patterns": [
+        "who are you",
+        "what is your name",
+        "tell me about yourself",
+        "who created you",
+        "what do you do"
+      ],
+      "responses": [
+        "I am IntelliBot AI, a premium virtual assistant built on advanced rule-based NLP algorithms. I was developed by Sanjeevikumar D for the CodSoft AI Internship.",
+        "My name is IntelliBot AI. I use keyword matching and regex patterns to help you answer questions about AI, coding, and internship pathways.",
+        "I am a rule-based intelligent agent designed to showcase pattern-matching capabilities, text-to-speech feedback, and voice-assisted input."
+      ]
+    },
+    {
+      "tag": "date_time",
+      "category": "Utilities",
+      "patterns": [
+        "what time is it",
+        "current time",
+        "time please",
+        "what is today's date",
+        "current date",
+        "today's date",
+        "what day is it",
+        "today date"
+      ],
+      "responses": [
+        "I can fetch that for you! The current date and time is: {current_time}.",
+        "According to my internal system clock, it is currently {current_time}."
+      ]
+    },
+    {
+      "tag": "programming_python",
+      "category": "Programming",
+      "patterns": [
+        "python",
+        "tell me about python",
+        "why use python",
+        "python language"
+      ],
+      "responses": [
+        "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. It is widely used in Web Development, Data Science, Artificial Intelligence, and Automation.",
+        "Python is known for its simplicity and readability. It has a massive ecosystem of libraries like Pandas, NumPy, CustomTkinter, and PyTorch, making it the top choice for AI and scripting."
+      ]
+    },
+    {
+      "tag": "programming_java",
+      "category": "Programming",
+      "patterns": [
+        "java",
+        "tell me about java",
+        "why use java"
+      ],
+      "responses": [
+        "Java is a high-level, class-based, object-oriented programming language designed to have as few implementation dependencies as possible. It follows the 'Write Once, Run Anywhere' (WORA) principle.",
+        "Java is heavily used in enterprise applications, Android app development, and large-scale system architectures due to its robust typing system and high performance."
+      ]
+    },
+    {
+      "tag": "programming_cpp",
+      "category": "Programming",
+      "patterns": [
+        "c++",
+        "cpp",
+        "tell me about c++",
+        "why use c++"
+      ],
+      "responses": [
+        "C++ is a powerful general-purpose programming language. It is an extension of the C programming language and includes object-oriented features. It is ideal for system/software development, game engines, and resource-constrained systems.",
+        "C++ offers low-level memory control combined with high-level abstractions, making it extremely fast. It is widely used in high-frequency trading platforms, game development, and database systems."
+      ]
+    },
+    {
+      "tag": "programming_javascript",
+      "category": "Programming",
+      "patterns": [
+        "javascript",
+        "js",
+        "tell me about javascript",
+        "why use javascript"
+      ],
+      "responses": [
+        "JavaScript is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is the language of the web, enabling interactive web pages and backend systems via Node.js.",
+        "JavaScript powers frontend frameworks like React, Angular, and Vue, and backend services via Node.js, making full-stack development highly unified."
+      ]
+    },
+    {
+      "tag": "programming_react",
+      "category": "Programming",
+      "patterns": [
+        "react",
+        "reactjs",
+        "react.js",
+        "what is react"
+      ],
+      "responses": [
+        "React is a free and open-source front-end JavaScript library for building user interfaces based on components. It is maintained by Meta and a community of individual developers and companies.",
+        "React introduces the virtual DOM and component-based state architecture to enable highly dynamic, single-page application rendering."
+      ]
+    },
+    {
+      "tag": "programming_springboot",
+      "category": "Programming",
+      "patterns": [
+        "spring boot",
+        "springboot",
+        "what is spring boot"
+      ],
+      "responses": [
+        "Spring Boot is an open-source, microservice-based Java web framework. It provides a production-ready setup with auto-configuration and embedded servers, simplifying enterprise application development.",
+        "Spring Boot makes it easy to create stand-alone, production-grade Spring-based applications that you can 'just run'. It eliminates boilerplate configuration."
+      ]
+    },
+    {
+      "tag": "programming_ml",
+      "category": "Programming",
+      "patterns": [
+        "machine learning",
+        "ml",
+        "tell me about machine learning"
+      ],
+      "responses": [
+        "Machine Learning (ML) is a field of study in artificial intelligence concerned with the development and study of statistical algorithms that can learn from data and generalize to unseen data.",
+        "In ML, models learn patterns from training data to make predictions or decisions without being explicitly programmed. Common algorithms include linear regression, decision trees, and neural networks."
+      ]
+    },
+    {
+      "tag": "ai_general",
+      "category": "Artificial Intelligence",
+      "patterns": [
+        "what is ai",
+        "artificial intelligence",
+        "tell me about ai",
+        "concept of ai"
+      ],
+      "responses": [
+        "Artificial Intelligence (AI) refers to the simulation of human intelligence processes by machines, especially computer systems. These processes include learning, reasoning, self-correction, and problem-solving.",
+        "AI is the broad discipline of building smart systems capable of performing tasks that historically required human intelligence. It spans rule-based systems (like me!), ML, and Deep Learning."
+      ]
+    },
+    {
+      "tag": "ai_deep_learning",
+      "category": "Artificial Intelligence",
+      "patterns": [
+        "what is deep learning",
+        "deep learning",
+        "dl",
+        "tell me about deep learning"
+      ],
+      "responses": [
+        "Deep Learning (DL) is a subset of machine learning based on artificial neural networks with multiple layers (hence 'deep'). It is modeled after the structural pathways of the human brain.",
+        "Deep Learning algorithms automatically discover representations needed for feature detection from raw data (e.g., images or audio), powering breakthroughs in computer vision and large language models."
+      ]
+    },
+    {
+      "tag": "ai_nlp",
+      "category": "Artificial Intelligence",
+      "patterns": [
+        "what is nlp",
+        "natural language processing",
+        "nlp",
+        "tell me about nlp"
+      ],
+      "responses": [
+        "Natural Language Processing (NLP) is an interdisciplinary subfield of computer science and linguistics. It is primarily concerned with giving computers the ability to support and manipulate human language.",
+        "NLP enables computers to read, decipher, and understand the syntax, semantics, and sentiment of human language. This chatbot uses rule-based NLP to process patterns and intents!"
+      ]
+    },
+    {
+      "tag": "ai_generative",
+      "category": "Artificial Intelligence",
+      "patterns": [
+        "what is generative ai",
+        "generative ai",
+        "gen ai",
+        "tell me about generative ai"
+      ],
+      "responses": [
+        "Generative Artificial Intelligence is artificial intelligence capable of generating text, images, video, or other data using generative models, often in response to prompts.",
+        "Generative AI uses massive models trained on vast datasets to output new, creative content. Popular tools include ChatGPT, Claude, and Midjourney."
+      ]
+    },
+    {
+      "tag": "career_resume",
+      "category": "Career",
+      "patterns": [
+        "resume",
+        "how to build a resume",
+        "cv tips",
+        "resume preparation"
+      ],
+      "responses": [
+        "To build a strong tech resume: 1. Keep it to one page. 2. Focus on projects with quantifiable results (e.g., 'Optimized query speeds by 30%'). 3. Include technologies you are actually proficient in. 4. Tailor it to the job description.",
+        "A stellar tech resume should highlight your GitHub contributions, internship projects (like CodSoft!), and technical competencies (languages, tools, libraries) clearly."
+      ]
+    },
+    {
+      "tag": "career_internship",
+      "category": "Career",
+      "patterns": [
+        "internship",
+        "how to get an internship",
+        "finding internships",
+        "internship advice"
+      ],
+      "responses": [
+        "Securing an internship requires: building solid hands-on projects, maintaining a clean GitHub profile, applying directly to company career pages, networking on LinkedIn, and practicing coding interviews.",
+        "Internships are a bridge to professional software roles. They give you practical experience working with teams, code review processes, and industry best practices."
+      ]
+    },
+    {
+      "tag": "career_placement",
+      "category": "Career",
+      "patterns": [
+        "placement",
+        "campus placement",
+        "job placements",
+        "getting a job"
+      ],
+      "responses": [
+        "Campus placement preparation involves: solidifying Data Structures & Algorithms, reviewing key core subjects (OS, DBMS, Networks), building real-world projects, and performing mock behavioral/technical interviews.",
+        "Prepare for placements by studying system design, practicing coding challenges on platforms like LeetCode, and writing about your projects on LinkedIn."
+      ]
+    },
+    {
+      "tag": "career_general",
+      "category": "Career",
+      "patterns": [
+        "career",
+        "career growth",
+        "career advice",
+        "it career"
+      ],
+      "responses": [
+        "A career in software development is a journey of continuous learning. Focus on building core problem-solving skills, mastering design patterns, and staying updated with modern frameworks.",
+        "Key career drivers in tech are deep technical competence, communication skills, reliability, and the ability to collaborate effectively in teams."
+      ]
+    },
+    {
+      "tag": "career_software_engineer",
+      "category": "Career",
+      "patterns": [
+        "software engineer",
+        "swe",
+        "what is a software engineer",
+        "how to become a software engineer"
+      ],
+      "responses": [
+        "A software engineer applies mathematical analysis and principles of computer science to design, build, test, and evaluate software systems.",
+        "To become a software engineer, build strong fundamentals in algorithmic thinking, choose a primary programming language (like Python, Java, or JavaScript), build full-stack or desktop apps, and learn git."
+      ]
+    },
+    {
+      "tag": "codsoft_info",
+      "category": "CodSoft",
+      "patterns": [
+        "what is codsoft",
+        "tell me about codsoft",
+        "codsoft details"
+      ],
+      "responses": [
+        "CodSoft is a vibrant IT company and training provider focused on empowering students through internships, mentoring, and skill development in field areas like Artificial Intelligence, Web Development, and Android.",
+        "CodSoft offers virtual internships that bridge the gap between academic theory and industry demands, allowing candidates to build portfolio-grade projects."
+      ]
+    },
+    {
+      "tag": "codsoft_internship",
+      "category": "CodSoft",
+      "patterns": [
+        "what is this internship",
+        "internship details",
+        "artificial intelligence internship",
+        "codsoft ai internship"
+      ],
+      "responses": [
+        "This is the CodSoft Artificial Intelligence Internship! Task 1 requires building a fully functional Rule-Based Chatbot with keyword and intent matching capabilities.",
+        "The CodSoft AI Internship is designed to give practical project experience. IntelliBot AI is Task 1, demonstrating regex pattern matching, UI design in CustomTkinter, and voice input/output."
+      ]
+    },
+    {
+      "tag": "smalltalk_how",
+      "category": "General",
+      "patterns": [
+        "how are you",
+        "how is it going",
+        "are you fine",
+        "how's it going",
+        "how do you do"
+      ],
+      "responses": [
+        "I am doing great! Operating smoothly at 100% capacity. How can I help you?",
+        "I am operating perfectly, thank you! Ready to answer your questions on AI, programming, and tech."
+      ]
+    },
+    {
+      "tag": "smalltalk_thanks",
+      "category": "General",
+      "patterns": [
+        "thank you",
+        "thanks",
+        "thank you so much",
+        "great help",
+        "appreciate it"
+      ],
+      "responses": [
+        "You are welcome! Always happy to assist.",
+        "My pleasure! Let me know if you need anything else.",
+        "Anytime! I am here to help you succeed."
+      ]
+    },
+    {
+      "tag": "smalltalk_bye",
+      "category": "General",
+      "patterns": [
+        "goodbye",
+        "bye",
+        "see you later",
+        "talk to you later",
+        "exit",
+        "quit"
+      ],
+      "responses": [
+        "Goodbye! Have a great day ahead. Keep coding!",
+        "Farewell! Feel free to launch me anytime you want to chat.",
+        "Bye! Best of luck with your CodSoft AI Internship submission!"
+      ]
+    }
+  ]
+}

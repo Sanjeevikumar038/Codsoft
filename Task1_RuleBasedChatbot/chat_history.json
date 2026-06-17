@@ -1,0 +1,37 @@
+[
+    {
+        "id": "c051fa25-6148-4485-881f-72e013dd574d",
+        "sender": "bot",
+        "text": "Hello! I am IntelliBot AI, your custom assistant. How can I help you today?",
+        "timestamp": "2026-06-17 09:00:09 PM",
+        "starred": false
+    },
+    {
+        "id": "012e90db-07dd-4639-80d9-dac822fa34f7",
+        "sender": "user",
+        "text": "what time is it",
+        "timestamp": "2026-06-17 09:02:01 PM",
+        "starred": false
+    },
+    {
+        "id": "4ae25a8a-7e82-4ad1-9924-1ac8d0f4d826",
+        "sender": "bot",
+        "text": "According to my internal system clock, it is currently 09:02 PM, Wednesday June 17, 2026.",
+        "timestamp": "2026-06-17 09:02:02 PM",
+        "starred": false
+    },
+    {
+        "id": "8b6ae9c1-ca5b-4d93-a13a-db276c388f26",
+        "sender": "user",
+        "text": "what is a",
+        "timestamp": "2026-06-17 09:02:21 PM",
+        "starred": false
+    },
+    {
+        "id": "be0110e1-8af7-4986-93c3-cf75dd45311d",
+        "sender": "bot",
+        "text": "To become a software engineer, build strong fundamentals in algorithmic thinking, choose a primary programming language (like Python, Java, or JavaScript), build full-stack or desktop apps, and learn git.",
+        "timestamp": "2026-06-17 09:02:21 PM",
+        "starred": false
+    }
+]
